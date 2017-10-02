@@ -2,6 +2,7 @@
 ## Shaun Bartschi
 
 1. The code for newtonf(), the fast running implementation of Newton's method. Software Manual entry found  on github.com/bart251 under Software library/ README.md
+
 ```C++
 #include<iostream>
 #include<cmath>
